@@ -1,9 +1,9 @@
 ---
 #lastmod: 2023-07-05
 title: Criticmind Games Gallery
-description: A collection of games and puzzles by Criticmind.
+description: A collection of games and puzzles by Criticmind Inc.
 resources:
-  - src: sudoku.png
+  - src: sudoku/cover.png
     params:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:

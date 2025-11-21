@@ -6,7 +6,6 @@ HUGO_RUN := CGO_ENABLED=1 go run $(HUGO_URI)
 
 .PHONY: build
 build: ## Build application
-# 	hugo --minify
 	$(HUGO_RUN) --minify
 	echo "criticmind.games" > public/CNAME
 

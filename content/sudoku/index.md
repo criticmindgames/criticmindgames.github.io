@@ -22,8 +22,12 @@ resources:
     title: "Sudoku Game - Forest Theme"
 ---
 
-Welcome to the Sudoku game gallery! Here you'll find a variety of Sudoku puzzles and related games to challenge your mind and have fun.
+Welcome to the **Sudoku Game Gallery** — a curated collection of screenshots, themes, and puzzle variations from our Sudoku project.
 
-Feel free to explore the different games, try out new puzzles, and improve your Sudoku skills. Whether you're a beginner or an experienced player, there's something for everyone.
+Here you can explore different visual styles, discover gameplay features, and get a closer look at how the puzzle experience evolves across themes and difficulty levels.
 
-Enjoy your time in the Sudoku game gallery!
+Whether you're just starting your Sudoku journey or you're already an experienced solver, this gallery highlights the clarity, atmosphere, and design choices that make the game both relaxing and intellectually stimulating.
+
+Browse the images, explore the details, and step into the world of Sudoku crafted with care.
+
+Enjoy your time in the Sudoku Game Gallery!

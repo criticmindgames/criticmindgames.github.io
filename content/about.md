@@ -7,7 +7,7 @@ menu:
     weight: 90
 ---
 
-**Criticmind Games** is the dedicated game development division of [Criticmind Inc](https://criticmind.com), focused on creating casual, logic-driven, and mind-sharpening experiences.  
+**Criticmind Games** is the dedicated game development division of [Criticmind Inc](https://criticmind.ai), focused on creating casual, logic-driven, and mind-sharpening experiences.  
 We believe that games can be both entertaining and enriching, offering players moments of fun while stimulating creativity, memory, and problem-solving skills.
 
 Our team explores simple, elegant mechanics that are easy to learn but rewarding to master. Whether it’s a quick puzzle, a strategic challenge, or a relaxing brain teaser, each project is crafted with care and attention to detail.
